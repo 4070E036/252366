@@ -1,0 +1,11 @@
+file:///C:/Users/KSUIE/Downloads/OWASP%20Top%2010%20-%202013.pdf
+A1 – Injection 注入 
+A2 – Broken Authentication and Session Management 失效的身份认证和会话管理 
+A3 – Cross-Site Scripting (XSS) 跨站脚本（XSS）
+A4 – Insecure Direct Object References 不安全的直接对象引用 
+A5 – Security Misconfiguration 安全配置错误 
+A6 – Sensitive Data Exposure 敏感信息泄漏 
+A7 – Missing Function Level Access Control 功能级访问控制缺失 
+A8 – Cross-Site Request Forgery (CSRF) 跨站请求伪造 （CSRF）
+A9 – Using Known Vulnerable Components 使用含有已知漏洞的组件 
+A10 – Unvalidated Redirects and Forwards 未验证的重定向和转发
