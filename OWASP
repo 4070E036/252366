@@ -9,3 +9,44 @@ A7 – Missing Function Level Access Control 功能级访问控制缺失
 A8 – Cross-Site Request Forgery (CSRF) 跨站请求伪造 （CSRF）
 A9 – Using Known Vulnerable Components 使用含有已知漏洞的组件 
 A10 – Unvalidated Redirects and Forwards 未验证的重定向和转发
+
+A1 – Injection 注入 
+漏洞說明
+測試工具
+測試案例
+A2 – Broken Authentication and Session Management 失效的身份认证和会话管理 
+漏洞說明
+測試工具
+測試案例
+A3 – Cross-Site Scripting (XSS) 跨站脚本（XSS）
+漏洞說明
+測試工具
+測試案例
+A4 – Insecure Direct Object References 不安全的直接对象引用 
+漏洞說明
+測試工具
+測試案例
+A5 – Security Misconfiguration 安全配置错误 
+漏洞說明
+測試工具
+測試案例
+A6 – Sensitive Data Exposure 敏感信息泄漏 
+漏洞說明
+測試工具
+測試案例
+A7 – Missing Function Level Access Control 功能级访问控制缺失 
+漏洞說明
+測試工具
+測試案例
+A8 – Cross-Site Request Forgery (CSRF) 跨站请求伪造 （CSRF）
+漏洞說明
+測試工具
+測試案例
+A9 – Using Known Vulnerable Components 使用含有已知漏洞的组件
+漏洞說明
+測試工具
+測試案例
+A10 – Unvalidated Redirects and Forwards 未验证的重定向和转发
+漏洞說明
+測試工具
+測試案例
