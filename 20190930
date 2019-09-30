@@ -8,27 +8,26 @@
 6.廻圈中又包含廻圈的 巢狀廻圈(nested loop)設計===九九乘法表
 ***
 
-range
 1.
 list1=range(10)
 list1
-答案:range(0, 10)
+>>range(0, 10)
 
 2.
-list(range(2,7))
-#list2=range(2,7)
+list(range(0,10))
+#list2=range(0,10)
 #list2
-答案:[2, 3, 4, 5, 6]
+>>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 3.
 list3=range(2,7,3)
 list3
-答案:range(2, 7, 3)
+>>range(2, 7, 3)
 
 4.
 for dd in range(10):
    print(dd)
-答案:
+>>
 0
 1
 2
@@ -50,7 +49,7 @@ print(list(list1))
 print(list(list2))
 print(list(list3)) 
 print(list(list4))  
-答案:
+>>
 [0, 1, 2, 3, 4, 5, 6, 7]
 [2, 3, 4, 5, 6, 7, 8]
 [1, 4, 7, 10]
